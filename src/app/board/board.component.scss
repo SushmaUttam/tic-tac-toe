@@ -1,0 +1,11 @@
+main{
+    display: grid;
+    grid-template-columns: 150px 150px 150px;
+    grid-gap: 0px;
+    // -ms-grid-row-align: 0px;
+    // -ms-grid-column-align: 0px;
+}
+app-square{
+    border: 2px gray solid;
+    height: 150px;
+}
