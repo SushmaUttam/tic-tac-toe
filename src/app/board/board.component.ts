@@ -20,11 +20,14 @@ export class BoardComponent implements OnInit {
   }
 
   play(){
-    let osc = this.ctx.createOscillator();
-    osc.onended = () => osc.disconnect();
-    osc.connect(this.ctx.destination);
-    osc.start();
-    osc.stop(this.ctx.currentTime + 0.5);
+    // let osc = this.ctx.createOscillator();
+    // osc.onended = () => osc.disconnect();
+    // osc.connect(this.ctx.destination);
+    // osc.start();
+    // osc.stop(this.ctx.currentTime + 0.5);
+    //let audio: HTMLAudioElement = new Audio('https://drive.google.com/uc?export=download&id=1M95VOpto1cQ4FQHzNBaLf0WFQglrtWi7');
+    let audio: HTMLAudioElement = new Audio("../../assets/toast_sound.mp3");
+    audio.play();
   }
 
   newGame(){
