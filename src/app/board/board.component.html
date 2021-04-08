@@ -2,6 +2,7 @@
 <button nbButton outline status="danger" (click)="newGame()"> Start New Game</button>
 
 <h2 *ngIf="winner">
+    {{play()}}
     Player {{winner}} won the game!
 </h2>
 

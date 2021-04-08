@@ -10,10 +10,21 @@ export class BoardComponent implements OnInit {
   xIsNext: boolean;
   winner: string;
 
+  private ctx : AudioContext;
   constructor() { }
 
   ngOnInit(): void {
     this.newGame();
+    AudioContext = (window as any).AudioContext || (window as any).webkitAudioContext;
+    this.ctx = new AudioContext();
+  }
+
+  play(){
+    let osc = this.ctx.createOscillator();
+    osc.onended = () => osc.disconnect();
+    osc.connect(this.ctx.destination);
+    osc.start();
+    osc.stop(this.ctx.currentTime + 0.5);
   }
 
   newGame(){
