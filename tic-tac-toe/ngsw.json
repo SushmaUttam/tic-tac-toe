@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1617891187019,
-  "index": "https://github.com/SushmaUttam/tic-tac-toe/index.html",
+  "timestamp": 1617891896964,
+  "index": "https://SushmaUttam.github.io/tic-tac-toe/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "https://github.com/SushmaUttam/tic-tac-toe/favicon.ico",
-        "https://github.com/SushmaUttam/tic-tac-toe/index.html",
-        "https://github.com/SushmaUttam/tic-tac-toe/main.cd2c0592ccc32a2a789f.js",
-        "https://github.com/SushmaUttam/tic-tac-toe/manifest.webmanifest",
-        "https://github.com/SushmaUttam/tic-tac-toe/polyfills.94daefd414b8355106ab.js",
-        "https://github.com/SushmaUttam/tic-tac-toe/runtime.7b63b9fd40098a2e8207.js",
-        "https://github.com/SushmaUttam/tic-tac-toe/styles.2234b3a590cbc0f5f6dd.css"
+        "https://SushmaUttam.github.io/tic-tac-toe/favicon.ico",
+        "https://SushmaUttam.github.io/tic-tac-toe/index.html",
+        "https://SushmaUttam.github.io/tic-tac-toe/main.cd2c0592ccc32a2a789f.js",
+        "https://SushmaUttam.github.io/tic-tac-toe/manifest.webmanifest",
+        "https://SushmaUttam.github.io/tic-tac-toe/polyfills.94daefd414b8355106ab.js",
+        "https://SushmaUttam.github.io/tic-tac-toe/runtime.7b63b9fd40098a2e8207.js",
+        "https://SushmaUttam.github.io/tic-tac-toe/styles.2234b3a590cbc0f5f6dd.css"
       ],
       "patterns": []
     },
@@ -29,35 +29,35 @@
         "ignoreVary": true
       },
       "urls": [
-        "https://github.com/SushmaUttam/tic-tac-toe/assets/icons/icon-128x128.png",
-        "https://github.com/SushmaUttam/tic-tac-toe/assets/icons/icon-144x144.png",
-        "https://github.com/SushmaUttam/tic-tac-toe/assets/icons/icon-152x152.png",
-        "https://github.com/SushmaUttam/tic-tac-toe/assets/icons/icon-192x192.png",
-        "https://github.com/SushmaUttam/tic-tac-toe/assets/icons/icon-384x384.png",
-        "https://github.com/SushmaUttam/tic-tac-toe/assets/icons/icon-512x512.png",
-        "https://github.com/SushmaUttam/tic-tac-toe/assets/icons/icon-72x72.png",
-        "https://github.com/SushmaUttam/tic-tac-toe/assets/icons/icon-96x96.png"
+        "https://SushmaUttam.github.io/tic-tac-toe/assets/icons/icon-128x128.png",
+        "https://SushmaUttam.github.io/tic-tac-toe/assets/icons/icon-144x144.png",
+        "https://SushmaUttam.github.io/tic-tac-toe/assets/icons/icon-152x152.png",
+        "https://SushmaUttam.github.io/tic-tac-toe/assets/icons/icon-192x192.png",
+        "https://SushmaUttam.github.io/tic-tac-toe/assets/icons/icon-384x384.png",
+        "https://SushmaUttam.github.io/tic-tac-toe/assets/icons/icon-512x512.png",
+        "https://SushmaUttam.github.io/tic-tac-toe/assets/icons/icon-72x72.png",
+        "https://SushmaUttam.github.io/tic-tac-toe/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://github.com/SushmaUttam/tic-tac-toe/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "https://github.com/SushmaUttam/tic-tac-toe/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "https://github.com/SushmaUttam/tic-tac-toe/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "https://github.com/SushmaUttam/tic-tac-toe/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "https://github.com/SushmaUttam/tic-tac-toe/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "https://github.com/SushmaUttam/tic-tac-toe/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "https://github.com/SushmaUttam/tic-tac-toe/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "https://github.com/SushmaUttam/tic-tac-toe/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "https://github.com/SushmaUttam/tic-tac-toe/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://github.com/SushmaUttam/tic-tac-toe/index.html": "18ecb1780fcda591313e45d8b355d50feda518af",
-    "https://github.com/SushmaUttam/tic-tac-toe/main.cd2c0592ccc32a2a789f.js": "0d412e2cf385244aeccc9ea658b33169049394ab",
-    "https://github.com/SushmaUttam/tic-tac-toe/manifest.webmanifest": "31856af0477f86abdb8f64546ae4dcada5eee645",
-    "https://github.com/SushmaUttam/tic-tac-toe/polyfills.94daefd414b8355106ab.js": "cfe7b0b53e96bff9ba384b4d497c08475a617d62",
-    "https://github.com/SushmaUttam/tic-tac-toe/runtime.7b63b9fd40098a2e8207.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "https://github.com/SushmaUttam/tic-tac-toe/styles.2234b3a590cbc0f5f6dd.css": "acbe00ff595d4af611c9b72795f5179d66e47589"
+    "https://SushmaUttam.github.io/tic-tac-toe/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://SushmaUttam.github.io/tic-tac-toe/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://SushmaUttam.github.io/tic-tac-toe/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://SushmaUttam.github.io/tic-tac-toe/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://SushmaUttam.github.io/tic-tac-toe/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://SushmaUttam.github.io/tic-tac-toe/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://SushmaUttam.github.io/tic-tac-toe/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://SushmaUttam.github.io/tic-tac-toe/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://SushmaUttam.github.io/tic-tac-toe/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://SushmaUttam.github.io/tic-tac-toe/index.html": "4176ac68c1d8efd255d944fefdaebd9304520778",
+    "https://SushmaUttam.github.io/tic-tac-toe/main.cd2c0592ccc32a2a789f.js": "0d412e2cf385244aeccc9ea658b33169049394ab",
+    "https://SushmaUttam.github.io/tic-tac-toe/manifest.webmanifest": "31856af0477f86abdb8f64546ae4dcada5eee645",
+    "https://SushmaUttam.github.io/tic-tac-toe/polyfills.94daefd414b8355106ab.js": "cfe7b0b53e96bff9ba384b4d497c08475a617d62",
+    "https://SushmaUttam.github.io/tic-tac-toe/runtime.7b63b9fd40098a2e8207.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://SushmaUttam.github.io/tic-tac-toe/styles.2234b3a590cbc0f5f6dd.css": "acbe00ff595d4af611c9b72795f5179d66e47589"
   },
   "navigationUrls": [
     {
